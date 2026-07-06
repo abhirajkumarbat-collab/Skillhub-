@@ -1,0 +1,6 @@
+{
+  "name": "SkillHub",
+  "description": "Premium personal digital business platform and services marketplace for Abhiraj Kumar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
